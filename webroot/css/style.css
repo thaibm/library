@@ -1,0 +1,36 @@
+.btn-add {
+  background-color: #4CAF50;
+  color: white; }
+  .btn-add:hover {
+    background-color: #66BB6A; }
+  .btn-add:focus, .btn-add:hover {
+    color: white; }
+
+a {
+  color: #4CAF50; }
+
+i.edit {
+  font-size: 16px;
+  color: #4CAF50; }
+
+i.delete {
+  font-size: 16px;
+  color: #F44336; }
+
+div.search-area {
+  margin-top: 50px; }
+  div.search-area select#filter {
+    height: 34px; }
+    div.search-area select#filter:focus {
+      background-color: white; }
+
+.invalid {
+  color: red; }
+
+.correct {
+  color: green; }
+
+.invalid, .correct {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
