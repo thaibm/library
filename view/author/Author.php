@@ -14,12 +14,11 @@
         </tr>
         </thead>
         <tbody id="list-authors">
-
+            
         </tbody>
     </table>
     <!-- Modal add -->
     <button type="button" class="btn btn-add btn-add-author" data-toggle="modal" data-target="#addAuthorModal">Add author</button>
-
     <div id="addAuthorModal" class="modal fade" role="dialog">
         <div class="modal-dialog">
             <!-- Modal content-->
@@ -65,7 +64,7 @@
             </div>
         </div>
     </div>
-    <!-- Modal add -->
+    <!--end Modal add -->
     <!-- Modal edit -->
     <div id="editAuthorModal" class="modal fade" role="dialog">
         <div class="modal-dialog">
